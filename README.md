@@ -106,6 +106,7 @@
 
 - [Laravel Livewire](https://laravel-livewire.com/) – Reactive front-end without JavaScript.
 - [Inertia.js](https://inertiajs.com/) – Monolithic full-stack approach using Vue/React/Svelte.
+- [Slate](https://slate.electrik.dev) — Tailwind CSS v4 powered Laravel Blade UI component library for building modern application interfaces.
 - [Blade UI Kit](https://blade-ui-kit.com/) – Prebuilt UI components for Blade.
 - [Alpine.js](https://alpinejs.dev/) – Lightweight JS helper often used with Laravel.
 
